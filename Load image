@@ -1,0 +1,6 @@
+cd 'Your drive path'
+% For example, cd 'D:\Agriculture\2019 Kearny Center nematodes\9-5-19\Flight 6 walnut 3 rgb\'
+
+rgb =imread('Your file name');
+%For example, rgb =imread('RGB nematodes 9-5-19 flight 4 walnut 1.tif');
+  
